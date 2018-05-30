@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "https://www.billboard.com/files/styles/900_wide/public/media/M-I-A-Kala-album-covers-billboard-1000x1000.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "https://www.billboard.com/files/styles/900_wide/public/media/Fleetwood-Mac-Rumours-album-covers-billboard-1000x1000.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "https://www.billboard.com/files/styles/900_wide/public/media/FKA-Twigs-LP1-album-covers-billboard-1000x1000.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "https://www.billboard.com/files/styles/900_wide/public/media/David-Bowie-Aladdin-Sane-album-covers-billboard-1000x1000.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "https://www.billboard.com/files/styles/900_wide/public/media/Miles-Davis-Bitches-Brew-album-covers-billboard-1000x1000.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "https://www.billboard.com/files/styles/900_wide/public/media/Joy-Division-Unknown-Pleasures-album-covers-billboard-1000x1000.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "https://www.billboard.com/files/styles/900_wide/public/media/The-Roots-Things-Fall-Apart-album-covers-billboard-1000x1000.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "https://www.billboard.com/files/styles/900_wide/public/media/Nirvana-Nevermind-album-covers-billboard-1000x1000.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "https://www.billboard.com/files/styles/900_wide/public/media/Pink-Floyd-Dark-Side-of-the-Moon-album-covers-billboard-1000x1000.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "https://www.billboard.com/files/styles/900_wide/public/media/The-Notorious-B-I-G-Ready-to-Die-album-covers-billboard-1000x1000.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "https://www.billboard.com/files/styles/900_wide/public/media/The-Beatles-Abbey-Road-album-covers-billboard-1000x1000.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "https://www.billboard.com/files/styles/900_wide/public/media/The-Velvet-Underground-Nico-greatest-album-covers-billboard-1000x1000.jpg",
+        "clicked": false
+    }
+]
