@@ -33,14 +33,16 @@ class App extends Component {
   };
 
 
-  //whenever an image is clicked 
+  //whenever a new image is clicked 
   handleClick = id => {
     if (this.state.clicked.indexOf(id) === -1) {
       this.handleIncrement();
       this.setState({ clicked: this.state.clicked.concat(id) });
       // console.log("clicked")
     } else {
+      //reset score if same pic is clicked
       this.handleReset();
+      // console.log('album picked already!')
     }
   };
 
